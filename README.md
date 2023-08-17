@@ -3,9 +3,9 @@
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://joseigor.com)
 
 
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igusil&show_icons=true&theme=dark)
+![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igusil&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igusil&layout=donut&theme=dark)](https://github.com/igusil)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igusil&layout=donut&theme=tokyonight)](https://github.com/igusil)
 
 <div style="display: inline block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
