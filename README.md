@@ -2,10 +2,9 @@
 
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://joseigor.com)
 
+![igusil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=igusil&theme=nightowl&hide_border=true)
 
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igusil&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igusil&layout=donut&theme=tokyonight)](https://github.com/igusil)
+![igusil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igusil&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 <div style="display: inline block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
